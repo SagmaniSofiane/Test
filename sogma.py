@@ -1,2 +1,3 @@
- a = 2 ;
- b = "sofiane" ;
+ a = 2 
+ b = "sofiane" 
+ print("hello world")
