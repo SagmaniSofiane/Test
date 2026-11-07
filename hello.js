@@ -1,1 +1,2 @@
-let w = "Sofiane"
+let w = "Sofiane" ;
+const name = "Hello world" ;
