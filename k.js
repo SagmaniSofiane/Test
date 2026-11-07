@@ -5,3 +5,4 @@ console.log(k + l - s);
 console.log("this is value for la somme the variables ");
 let name = "sofiane";
 console.log("Hello: ", { $name });
+let w = 22 ;
